@@ -1,0 +1,42 @@
+﻿  casino.cpp
+c:\users\uc-m10\documents\jurica martinez\bootcampit-jurica\casino\casino\casino.cpp(103): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\uc-m10\documents\jurica martinez\bootcampit-jurica\casino\casino\casino.cpp(100): warning C4101: 'a': unreferenced local variable
+c:\users\uc-m10\documents\jurica martinez\bootcampit-jurica\casino\casino\casino.cpp(179): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\uc-m10\documents\jurica martinez\bootcampit-jurica\casino\casino\casino.cpp(229): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\uc-m10\documents\jurica martinez\bootcampit-jurica\casino\casino\casino.cpp(306): warning C4305: 'argument': truncation from 'int' to 'const _Elem'
+          with
+          [
+              _Elem=char
+          ]
+c:\users\uc-m10\documents\jurica martinez\bootcampit-jurica\casino\casino\casino.cpp(306): warning C4309: 'argument': truncation of constant value
+c:\users\uc-m10\documents\jurica martinez\bootcampit-jurica\casino\casino\casino.cpp(309): warning C4305: 'argument': truncation from 'int' to 'const _Elem'
+          with
+          [
+              _Elem=char
+          ]
+c:\users\uc-m10\documents\jurica martinez\bootcampit-jurica\casino\casino\casino.cpp(309): warning C4309: 'argument': truncation of constant value
+c:\users\uc-m10\documents\jurica martinez\bootcampit-jurica\casino\casino\casino.cpp(312): warning C4305: 'argument': truncation from 'int' to 'const _Elem'
+          with
+          [
+              _Elem=char
+          ]
+c:\users\uc-m10\documents\jurica martinez\bootcampit-jurica\casino\casino\casino.cpp(312): warning C4309: 'argument': truncation of constant value
+c:\users\uc-m10\documents\jurica martinez\bootcampit-jurica\casino\casino\casino.cpp(315): warning C4305: 'argument': truncation from 'int' to 'const _Elem'
+          with
+          [
+              _Elem=char
+          ]
+c:\users\uc-m10\documents\jurica martinez\bootcampit-jurica\casino\casino\casino.cpp(315): warning C4309: 'argument': truncation of constant value
+c:\users\uc-m10\documents\jurica martinez\bootcampit-jurica\casino\casino\casino.cpp(344): warning C4305: 'argument': truncation from 'int' to 'const _Elem'
+          with
+          [
+              _Elem=char
+          ]
+c:\users\uc-m10\documents\jurica martinez\bootcampit-jurica\casino\casino\casino.cpp(344): warning C4309: 'argument': truncation of constant value
+c:\users\uc-m10\documents\jurica martinez\bootcampit-jurica\casino\casino\casino.cpp(356): warning C4305: 'argument': truncation from 'int' to 'const _Elem'
+          with
+          [
+              _Elem=char
+          ]
+c:\users\uc-m10\documents\jurica martinez\bootcampit-jurica\casino\casino\casino.cpp(356): warning C4309: 'argument': truncation of constant value
+  casino.vcxproj -> C:\Users\UC-M10\Documents\Jurica Martinez\BootCampIT-Jurica\casino\Debug\casino.exe
